@@ -1,20 +1,16 @@
 ---
 title: Main menu
 items:
-- title: Posts
-  target: "/en/posts/"
+- title: About Studio.DPI
+  target: "/en/about/"
   kind: page
   children: []
-- title: Team
-  target: "/en/team/"
+- title: News
+  target: "/en/news/"
   kind: page
   children: []
 - title: Organizations
   target: "/en/organizations/"
-  kind: page
-  children: []
-- title: About Studio.DPI
-  target: "/en/about/"
   kind: page
   children: []
 - title: Contact
