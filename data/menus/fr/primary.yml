@@ -9,4 +9,8 @@ items:
   target: "/fr/actualites/"
   kind: page
   children: []
+- title: Contact
+  target: "/fr/contact/"
+  kind: page
+  children: []
 
