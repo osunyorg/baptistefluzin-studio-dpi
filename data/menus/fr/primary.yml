@@ -1,4 +1,8 @@
 ---
 title: Menu principal
-items: []
+items:
+- title: À propos de Studio.DPI
+  target: "/fr/a-propos/"
+  kind: page
+  children: []
 
