@@ -5,10 +5,6 @@ items:
   target: "/en/legal-terms/"
   kind: page
   children: []
-- title: Privacy policy
-  target: "/en/privacy-policy/"
-  kind: page
-  children: []
 - title: Accessibility
   target: "/en/accessibility/"
   kind: page
