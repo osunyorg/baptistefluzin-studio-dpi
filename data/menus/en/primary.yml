@@ -17,4 +17,8 @@ items:
   target: "/en/about/"
   kind: page
   children: []
+- title: Contact
+  target: "/en/contact/"
+  kind: page
+  children: []
 
