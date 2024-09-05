@@ -6,4 +6,7 @@ params:
   summary:
     position: hero
   search:
-    active: false  
+    active: false
+  logo:
+    header: /assets/images/logo.png
+    footer: ''
