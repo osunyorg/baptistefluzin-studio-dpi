@@ -9,10 +9,6 @@ items:
   target: "/en/news/"
   kind: page
   children: []
-- title: Organizations
-  target: "/en/organizations/"
-  kind: page
-  children: []
 - title: Contact
   target: "/en/contact/"
   kind: page
