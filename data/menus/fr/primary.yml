@@ -5,4 +5,8 @@ items:
   target: "/fr/a-propos/"
   kind: page
   children: []
+- title: Actualités
+  target: "/fr/actualites/"
+  kind: page
+  children: []
 
