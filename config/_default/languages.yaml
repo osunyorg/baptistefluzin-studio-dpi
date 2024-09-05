@@ -9,7 +9,7 @@ en:
   params:
     social:
   permalinks:
-    posts: /posts/:year-:month-:day-:slug/
+    posts: /news/:year-:month-:day-:slug/
   taxonomies:
     administrator: administrators
     author: authors
