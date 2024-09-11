@@ -13,4 +13,12 @@ items:
   target: "/fr/contact/"
   kind: page
   children: []
+- title: Agenda
+  target: "/fr/agenda/"
+  kind: page
+  children: []
+- title: Agenda
+  target: "/fr/agenda/"
+  kind: page
+  children: []
 

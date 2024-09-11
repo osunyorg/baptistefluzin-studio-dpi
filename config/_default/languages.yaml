@@ -10,6 +10,8 @@ en:
     social:
   permalinks:
     posts: /news/:year-:month-:day-:slug/
+    events: /agenda/:year-:month-:day-:slug/
+    events_categories: /agenda/:slug/
   taxonomies:
     administrator: administrators
     author: authors
@@ -33,6 +35,8 @@ fr:
     social:
   permalinks:
     posts: /actualites/:year-:month-:day-:slug/
+    events: /agenda/:year-:month-:day-:slug/
+    events_categories: /agenda/:slug/
   taxonomies:
     administrator: administrators
     author: authors
