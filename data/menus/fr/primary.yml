@@ -5,12 +5,15 @@ items:
   target: "/fr/a-propos/"
   kind: page
   children: []
+  file: content/fr/pages/a-propos/_index.html
 - title: Actualités
   target: "/fr/actualites/"
   kind: page
   children: []
+  file: content/fr/posts/_index.html
 - title: Contact
   target: "/fr/contact/"
   kind: page
   children: []
+  file: content/fr/pages/contact/_index.html
 
