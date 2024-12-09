@@ -7,11 +7,20 @@ en:
   languageCode: en
   languageName: English
   params:
-    social:
-      email: >-
-        fact@dpi.studio
-      linkedin: >-
-        https://www.linkedin.com/company/studio-dpi
+    contact_details:
+      emails:
+        email:
+          label: >-
+            fact@dpi.studio
+          value: >-
+            mailto:fact@dpi.studio
+      social_networks:
+        linkedin:
+          label: >-
+            studio-dpi
+          value: >-
+            https://www.linkedin.com/company/studio-dpi
+
   permalinks:
     events: /agenda/:year-:month-:day-:slug/
     events_categories: /agenda/:slug/
@@ -37,11 +46,20 @@ fr:
   languageCode: fr
   languageName: Français
   params:
-    social:
-      email: >-
-        fact@dpi.studio
-      linkedin: >-
-        https://www.linkedin.com/company/studio-dpi
+    contact_details:
+      emails:
+        email:
+          label: >-
+            fact@dpi.studio
+          value: >-
+            mailto:fact@dpi.studio
+      social_networks:
+        linkedin:
+          label: >-
+            studio-dpi
+          value: >-
+            https://www.linkedin.com/company/studio-dpi
+
   permalinks:
     events: /agenda/:year-:month-:day-:slug/
     events_categories: /agenda/:slug/
