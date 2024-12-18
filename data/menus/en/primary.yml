@@ -4,18 +4,21 @@ items:
 - title: About Studio.DPI
   target: "/en/about/"
   kind: page
+  new_tab: false
   children: []
   path: "/pages/about"
   file: content/en/pages/about/_index.html
 - title: News
   target: "/en/news/"
   kind: page
+  new_tab: false
   children: []
   path: "/posts"
   file: content/en/posts/_index.html
 - title: Contact
   target: "/en/contact/"
   kind: page
+  new_tab: false
   children: []
   path: "/pages/contact"
   file: content/en/pages/contact/_index.html

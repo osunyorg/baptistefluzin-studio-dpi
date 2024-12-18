@@ -4,18 +4,21 @@ items:
 - title: À propos de Studio.DPI
   target: "/fr/a-propos/"
   kind: page
+  new_tab: false
   children: []
   path: "/pages/a-propos"
   file: content/fr/pages/a-propos/_index.html
 - title: Actualités
   target: "/fr/actualites/"
   kind: page
+  new_tab: false
   children: []
   path: "/posts"
   file: content/fr/posts/_index.html
 - title: Contact
   target: "/fr/contact/"
   kind: page
+  new_tab: false
   children: []
   path: "/pages/contact"
   file: content/fr/pages/contact/_index.html
