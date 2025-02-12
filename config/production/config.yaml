@@ -2,6 +2,11 @@
 
 baseURL: https://studio-dpi.baptistefluzin.osuny.site
 
+## OSUNY
+osuny:
+  website:
+    id: 70d0babd-3565-46bd-b3ba-72db204c3c74
+
 ## LANGUAGE
 defaultContentLanguage: en
 defaultContentLanguageInSubdir: true
