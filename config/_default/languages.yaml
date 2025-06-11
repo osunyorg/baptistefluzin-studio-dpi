@@ -22,13 +22,6 @@ en:
           value: >-
             https://www.linkedin.com/company/studio-dpi
 
-  permalinks:
-    events: /agenda/:year/:slug/
-    exhibitions: /exhibitions/:year-:month-:day-:slug/
-    events_categories: /agenda/:slug/
-    pages_categories: /:slug/
-    posts: /news/:year-:month-:day-:slug/
-    posts_categories: /news/:slug/
   taxonomies:
     administrator: administrators
     author: authors
@@ -66,13 +59,6 @@ fr:
           value: >-
             https://www.linkedin.com/company/studio-dpi
 
-  permalinks:
-    events: /agenda/:year/:slug/
-    exhibitions: /expositions/:year-:month-:day-:slug/
-    events_categories: /agenda/:slug/
-    pages_categories: /:slug/
-    posts: /actualites/:year-:month-:day-:slug/
-    posts_categories: /actualites/:slug/
   taxonomies:
     administrator: administrators
     author: authors
