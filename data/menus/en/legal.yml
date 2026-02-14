@@ -2,10 +2,12 @@
 title: Legal
 items:
 - title: Legal terms
+  slug: legal-terms
   target: "/en/legal-terms/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/legal-terms"
   file: content/en/pages/legal-terms/_index.html
 

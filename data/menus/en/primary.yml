@@ -2,24 +2,30 @@
 title: Main menu
 items:
 - title: About Studio.DPI
+  slug: about-studio-dpi
   target: "/en/about/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/about"
   file: content/en/pages/about/_index.html
 - title: News
+  slug: news
   target: "/en/news/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/posts"
   file: content/en/posts/_index.html
 - title: Contact
+  slug: contact
   target: "/en/contact/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/contact"
   file: content/en/pages/contact/_index.html
 
