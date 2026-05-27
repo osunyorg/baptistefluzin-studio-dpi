@@ -4,8 +4,8 @@ en:
   title: >-
     Studio.DPI
   contentDir: content/en
-  languageCode: en
-  languageName: English
+  locale: en
+  label: English
   buildFuture: true
   params:
     contact_details:
@@ -42,8 +42,8 @@ fr:
   title: >-
     Studio.DPI
   contentDir: content/fr
-  languageCode: fr
-  languageName: Français
+  locale: fr
+  label: Français
   buildFuture: true
   params:
     contact_details:
